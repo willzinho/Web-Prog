@@ -1,0 +1,129 @@
+﻿body{
+		background-color:#00xxxx;
+		background-color:#66cdaa;
+		background-image:url("../imagens/sp.jpg");
+		background-position:center center;
+		background-attachment:fixed;}
+	
+	#titulo1{
+		text-align:center;
+		font-size:50px;
+		color:#00ccff;}
+	
+	#titulo2{
+		font-size:30px;
+		color:#99ff33;}
+		
+	
+	.p1{color:#ff0066;
+	    font-size:20px;
+	    text-align:center;}
+	
+	.p2{color:#6600cc;
+	    text-align:center;
+		font-size:20px;}
+	
+	.p3{text-align:center;
+		font-size:20px;
+		color:#00ff00;}
+	
+	.p4{text-align:center;
+		color:#eeeeee;
+		font-size:20px;}
+		
+	.p5:first-letter{
+		font-size:30px;
+		color:blue;}
+	
+	.p5{text-align:center;
+		font-size:20px;
+		color:#ff3300;}
+	
+	.p6{text-align:center;
+	font-size:20px;
+	color:red;}
+	
+	.p6:before{content:" Com gratidão ... ___ "}
+	.p6:after{content:" ___ ... Sempre "}
+	
+	.p7{text-align:center;
+		font-size:20px;
+		color:#cc00cc;}
+		
+	h1{text-align:center;}
+	h2{text-align:center;}
+	
+	
+	h1{
+	 text-align:center;
+	 color:#00xxxx;
+	 font-family:"comic sans ms", "sans-serif", "cursive";
+	 font-style:italic;
+	 font-size:30px;
+	 font-variant:small-caps;}
+	
+	 h2{
+	 color: #00xxxx;
+	 text-decoration:overline;
+	 text-transform:uppercase;
+     font-family:"Comic Sams ms", "sams-serif", "cursive";
+	 font-style:italic;
+	 font-size:30px;
+	 font-variant:small-caps;}
+	 
+	 img{float:right;}
+	 
+	 a:link:visited{
+		 font-size:20px;
+		 color:#1874cd;
+		 text-decoration:none;}
+		 
+	a:hover;:active{
+			 font-size:20px;
+			 color:#473c8b;
+			 text-decoration:underline;}
+			 
+	.azul{color:blue;
+		  font-size:20px;}
+		  
+	.verde{color:green;
+		   font-size:20px;}	
+		   
+	.div1{
+		background-color:red;
+		width:800px;
+		height:200px;
+	    border:2px solid black;
+		/*margin-left:50px;*/
+		text-align:center;
+		font-size:30px;}
+	
+	.div2{
+		background-color:blue;
+		width:400px;
+		height:400px;
+		border:2px dotted black;
+		text-align:left;
+		font-size:30px;
+		
+		/*margin-top:30px; (esta como comnetario por causa do exercicio, e pra n interferir esta como comentario)*/
+	/*margin:30px;
+	padding:50px; (esta como comnetario por causa do exercicio, e pra n interferir esta como comentario)*/}
+		
+	.div3{
+		background-color:yellow;
+		width:400px;
+		height:400px;
+	    border:2px dashed black;
+		text-align:center;
+		font-size:30px;
+		margin-top:-404px;
+		margin-left:400px;
+	    /*margin-right:auto;
+		margin-left:auto; (esta como comnetario por causa do exercicio, e pra n interferir esta como comentario)*/}
+	
+	
+	
+	 
+	/* boas praticas de programação, isso ajuda a organizar na hr da identação */
+	

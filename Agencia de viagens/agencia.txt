@@ -1,0 +1,10 @@
+create table pacote (
+id int not null,
+nome varchar (50) not null,
+dti date,
+dtf date,
+descricao varchar (200),
+foto varchar (30),
+categoria varchar (30),
+preco numeric (8,2) not null,
+constraint pk_pacote primary key (id));pacote
